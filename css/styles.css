@@ -1,0 +1,16 @@
+body {
+  padding-top: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.modal .modal-dialog {
+  max-width: 600px;
+}
+
+.carousel-item img {
+  max-height: 500px;
+  object-fit: contain;
+}
